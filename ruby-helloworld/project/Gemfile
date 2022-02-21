@@ -1,0 +1,10 @@
+source 'https://rubygems.org'
+gem 'os'
+gem 'cpf_cnpj'
+
+#cd (nome da pasta)
+#gem install bundler
+#bundle
+
+#isso vai instalar todas as gem's vindas da rubygems.org e criar um .lock com os dados de cada uma
+# MUITO PICA
