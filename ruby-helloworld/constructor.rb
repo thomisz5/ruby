@@ -1,5 +1,5 @@
 class Person
-  def initialize(name,age)
+  def initialize(name, age)
     @name = name
     @age = age
   end
@@ -11,4 +11,4 @@ class Person
   end
 end
 
-person = Person.new('thomas',19).check
+person = Person.new('thomas', 19).check

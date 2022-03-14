@@ -5,6 +5,6 @@ class Mercado
   attr_accessor :produto
 
   def buy
-    puts "voce comprou um produto #{@produto}"
+    puts "voce comprou um produto #{@produto} "
   end
 end

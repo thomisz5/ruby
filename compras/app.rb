@@ -5,4 +5,5 @@ product = Produto.new("headset",50)
 
 market = Mercado.new("headset")
 
-market.new(product.name, product.price).buy
+market.buy
+#arket.(product.name, product.price).buy
