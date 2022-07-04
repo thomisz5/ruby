@@ -15,7 +15,6 @@ loop do
     current_year = gets.chomp.to_i
     age = current_year - year_of_birth
     result = "Quem nasceu no ano de #{year_of_birth}, tem #{age} anos em #{current_year}"
-  elsif option == 0
     break if option == 0
   else
     result = 'Opção inválida'
@@ -23,4 +22,3 @@ loop do
   # Comando que limpa o console
   system "clear"
 end
-

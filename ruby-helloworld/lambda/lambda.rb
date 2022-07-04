@@ -1,3 +1,6 @@
-first_lambda = lambda {puts "my first lambda"}
-first_lambda.call
+first_lambda = -> {puts "my first lambda"}
+5.times do
+  first_lambda.call
+end
+# -> é lambda
 

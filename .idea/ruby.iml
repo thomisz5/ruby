@@ -8,11 +8,14 @@
       <sourceFolder url="file://$MODULE_DIR$/features" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/test" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/rails/rails/curso-rails/workspace/modulo-03/crypto_wallet/tmp/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/rails/rails/curso-rails/workspace/projeto-rails/tmp/cache" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="ruby-2.7.0-p0" jdkType="RUBY_SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" scope="PROVIDED" name="bundler (v2.3.7, rbenv: 2.7.0) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="cpf_cnpj (v0.5.0, rbenv: 2.7.0) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="os (v1.1.4, rbenv: 2.7.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="bundler (v2.1.2, ruby-2.7.0-p0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="cpf_cnpj (v0.5.0, ruby-2.7.0-p0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="os (v1.1.4, ruby-2.7.0-p0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rake (v13.0.1, ruby-2.7.0-p0) [gem]" level="application" />
   </component>
 </module>

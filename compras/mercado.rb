@@ -1,5 +1,5 @@
 class Mercado
-  def initialize(produto)
+  def initialize(produto)#construtorzinho
     @produto = produto
   end
   attr_accessor :produto
