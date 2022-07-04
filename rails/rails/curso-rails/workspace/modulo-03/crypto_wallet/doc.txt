@@ -1,0 +1,16 @@
+DOCUMENTAÇÃO RAILS-VAGRANT
+
+$ cd rails         (pasta)
+$ cd curso-rails
+$ git clone jacksonpires/curso-rails
+$ ~/curso rails$ vagrant up
+
+acessa o localhost:8181
+
+rvm install ruby-2.6.9
+gem install rails -v 5.2.0
+rails new (projeto)
+rails server (vai dar merda)
+sudo apt-get install libsqlite3-dev
+bundle install
+rails s -b 0.0.0.0 -p 3000
